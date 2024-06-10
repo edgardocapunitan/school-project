@@ -1,1 +1,1 @@
-# school-project
+attendance monitoring system with support remarks
