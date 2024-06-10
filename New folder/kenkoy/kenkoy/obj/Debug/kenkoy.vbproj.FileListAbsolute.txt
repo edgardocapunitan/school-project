@@ -1,0 +1,79 @@
+G:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe.config
+G:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe
+G:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.pdb
+G:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.xml
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form1.resources
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form2.resources
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Resources.resources
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.vbproj.GenerateResource.Cache
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.exe
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.xml
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.pdb
+E:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe.config
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.exe
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.xml
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.pdb
+E:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe
+E:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.pdb
+E:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.xml
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form1.resources
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form2.resources
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Resources.resources
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.vbproj.GenerateResource.Cache
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe.config
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.exe
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.xml
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.pdb
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.pdb
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.xml
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form1.resources
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form2.resources
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Resources.resources
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.vbproj.GenerateResource.Cache
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form3.resources
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form4.resources
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form5.resources
+C:\Users\A6 7400\Documents\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form6.resources
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form3.resources
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form4.resources
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form5.resources
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form6.resources
+E:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form7.resources
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form3.resources
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form4.resources
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form5.resources
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form6.resources
+G:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form7.resources
+F:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe.config
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.exe
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.xml
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.pdb
+F:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe
+F:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.pdb
+F:\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.xml
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form1.resources
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form2.resources
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form3.resources
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form4.resources
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form5.resources
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form6.resources
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form7.resources
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Resources.resources
+F:\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.vbproj.GenerateResource.Cache
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe.config
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.exe
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.xml
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.pdb
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.exe
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.pdb
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\bin\Debug\kenkoy.xml
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form1.resources
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form2.resources
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form3.resources
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form4.resources
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form5.resources
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form6.resources
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Form7.resources
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.Resources.resources
+C:\Users\EDUARDO\Desktop\New folder\kenkoy\kenkoy\obj\Debug\kenkoy.vbproj.GenerateResource.Cache
